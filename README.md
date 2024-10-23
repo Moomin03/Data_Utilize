@@ -1,7 +1,7 @@
 ## 파이썬 데이터 분석 실무 테크닉 100
 
 ---
-<img src="https://image.yes24.com/goods/91302724/XL.jpg" alt="Book" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://image.yes24.com/goods/91302724/XL.jpg" alt="Book" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 ---
 ### 개발 환경 구성
