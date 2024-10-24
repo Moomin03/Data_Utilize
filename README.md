@@ -30,6 +30,38 @@
 │  │  ├─DataSets
 │  │  │      kokyaku_daicho.xlsx
 │  │  │      uriage.csv
+│  └─Chapter 3. 고객의 전체 모습을 파악하는 테크닉 10
+│  │  ├─Jupyter Notebook
+│  │  │      고객의 전체 모습을 파악하는 테크닉 10.ipynb
+│  │  ├─DataSets
+│  │  │      campaign_master.csv
+│  │  │      class_master.csv
+│  │  │      customer_join.csv
+│  │  │      customer_master.csv
+│  │  │      customer_newer.csv
+│  │  │      use_log.csv
+│  └─Chapter 4. 고객의 행동을 예측하는 테크닉 10
+│  │  ├─DataSets
+│  │  │      customer_join.csv
+│  │  │      use_log.csv
+│  │  │      use_log_months.csv
+│  └─Chapter 5. 회원 탈퇴를 예측하는 테크닉 10
+│  │  ├─DataSets
+│  │  │      customer_join.csv
+│  │  │      use_log_months.csv
+│  └─Chapter 6. 물류의 최적경로를 컨설팅하는 테크닉 10
+│  │  ├─DataSets
+│  │  │      demand.csv
+│  │  │      network_pos.csv
+│  │  │      network_weight.csv
+│  │  │      rel_cost.csv
+│  │  │      supply.csv
+│  │  │      tbl_factory.csv
+│  │  │      tbl_transaction.csv
+│  │  │      trans_cost.csv
+│  │  │      trans_route.csv
+│  │  │      trans_route_new.csv
+│  │  │      trans_route_pos.csv
 │  └─requirements.txt
 └────README.MD
 ```
