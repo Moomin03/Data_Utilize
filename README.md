@@ -24,6 +24,12 @@
 │  │  │      transaction_2.csv
 │  │  │      transaction_detail_1.csv
 │  │  │      transaction_detail_2.csv
+│  └─Chapter 2. 대리점 데이터를 가공하는 테크닉 10
+│  │  ├─Jupyter Notebook
+│  │  │      대리점 데이터를 가공하는 테크닉 10.ipynb
+│  │  ├─DataSets
+│  │  │      kokyaku_daicho.xlsx
+│  │  │      uriage.csv
 │  └─requirements.txt
 └────README.MD
 ```
